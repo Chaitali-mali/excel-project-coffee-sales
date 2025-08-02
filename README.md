@@ -61,7 +61,7 @@ The data is **fictional** and was created solely for **educational and portfolio
 ## 📸 Can I see a preview of the dashboard?
 
 > *(Insert a screenshot here after uploading to GitHub)*  
-> ![Dashboard Preview](Screenshot 2025-08-02 224311.png)
+> ![Dashboard Preview](https://github.com/Chaitali-mali/excel-project-coffee-sales/commit/84adb00035c071b47681f08c535f4d412067beab)
 
 ---
 
@@ -76,7 +76,7 @@ The data is **fictional** and was created solely for **educational and portfolio
 
 ## 🙋 Have questions?
 
-Feel free to **raise an issue** on this repo or **connect with me on [LinkedIn](https://www.linkedin.com/)**.
+Feel free to **raise an issue** on this repo or **connect with me on [LinkedIn](https://www.linkedin.com/in/chaitalimali/)**.
 
 ---
 
