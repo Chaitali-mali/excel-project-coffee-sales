@@ -61,8 +61,7 @@ The data is **fictional** and was created solely for **educational and portfolio
 ## 📸 Can I see a preview of the dashboard?
 
 > *(Insert a screenshot here after uploading to GitHub)*  
-> ![Dashboard Preview](<img width="1426" height="704" alt="Screenshot 2025-08-02 224311" src="https://github.com/user-attachments/assets/98bad81f-819b-4405-98d3-18efeb039c8f" />
-)
+> ![Dashboard Preview](Screenshot 2025-08-02 224311.png)
 
 ---
 
