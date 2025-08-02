@@ -120,13 +120,6 @@ Feel free to **raise an issue** on this repo or **connect with me on [LinkedIn](
 
 ---
 
-## 📷 Dashboard Preview
-
-> *(Insert image here once uploaded to GitHub)*  
-> ![Coffee Dashboard Preview](https://github.com/your-username/your-repo-name/assets/your-image-link)
-
----
-
 ## 🚀 How to Use
 
 1. Clone/download the repository
